@@ -22,6 +22,8 @@ I didn't come up with anything more original than that
 
 ---
 
+![Mihahanya](https://www.codewars.com/users/Mihahanya/badges/large)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mihahanya&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ### *Links:*
