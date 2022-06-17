@@ -50,7 +50,3 @@ I didn't come up with anything more original than that
 [![Habr](https://img.shields.io/badge/habr-303b44?style=for-the-badge&logo=habr)](https://habr.com/ru/users/Mihahanya)
 [![Shadertoy](https://img.shields.io/badge/Shadertoy-d1d1d1?style=for-the-badge)](https://www.shadertoy.com/user/Mihaha)
 [![CodeWars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white)](https://www.codewars.com/users/Mihahanya)
-
----
-
-[![](https://visitcount.itsvg.in/api?id=Mihahanya&label=Profile%20Views&color=6&icon=0&pretty=true)](https://visitcount.itsvg.in)
