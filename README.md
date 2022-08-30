@@ -34,6 +34,7 @@ I didn't come up with anything more original than that
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)\
 ![Adobe Photoshop](https://img.shields.io/badge/photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white)
 ![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)\
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)\
 [![CodeWars](https://www.codewars.com/users/Mihahanya/badges/large)](https://www.codewars.com/users/Mihahanya)\
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mihahanya&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
