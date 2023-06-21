@@ -42,7 +42,7 @@ I didn't come up with anything more original than that
 [![CodeWars](https://www.codewars.com/users/Mihahanya/badges/large)](https://www.codewars.com/users/Mihahanya)
 
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mihahanya&layout=compact&theme=dark&hide_border=true" />
+<!--<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mihahanya&layout=compact&theme=dark&hide_border=true" />-->
 
 <hr width="33%">
 
